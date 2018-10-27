@@ -1,40 +1,23 @@
 Vatapi Ganapatim
-
-Ragam: Hamsadhwani (29th mela janyam)
-
-               ARO: S R G P N S || AVA: S N P G R S ||
-
+Ragam: Hamsadhwani (29th mela Dheera Shankarabharanam janyam)
+               ARO: S R2 G3 P N3 S
+               AVA: S N3 P G3 R2 S
 Talam: Adi
-
 Composer: Dikshitar
 
-Version: T. Rukmini
-
- 
-
 Pallavi:
-
 Vaataapi Ganapathim Bhajeham Vaaranaasyam Vara Pradam Sri
 
 Anupallavi:
-
 Bhootaadi Samsevitha Charanam
-
 Bhoota Bhautika Prapancha Bharanam
-
 Veetharaaginam Vinuta Yoginam Vishwakaaranam Vigna Vaaranam
-
- 
 
 Charanam:
 Puraa Kumbha Sambhava Munivara Prapoojitam Trikona Madhyagatam
-
 Muraari Pramukhaadyupaasitam Moolaadhaara Kshetrasthitam Paraadi Chatvaari Vaagaatmakam
-
 Pranava Svaroopa Vakratundam Nirantaram Nitila Chandragandam Nijavaamakara Vidhrutekshu Dandam
-
 Karaambujapaasha Beejaapooram Kalushavidooram Bhootaakaaram Haraadi Guruguha Toshita Bimbam
-
 Hamsadhvani Bhooshita Herambham
 
  
@@ -42,59 +25,28 @@ Hamsadhvani Bhooshita Herambham
 Meaning: (From TK Govinda Rao’s Book)
 
 I worship (“Bhajeham”) Lord Ganapati of Vaatapi, who has the face (“aasyam”) of an elephant (“vaara”) and confers (“pradam”) boons (“vara”) on His devotees.
-
- 
-
 His feet (“charanam”) are worshipped (“samsevitha”) by a host of Bhootaganas. He pervades (“bharanam”)  the world  (“bhoota bhautika”) consisting of the five elements (“prapancha”). He transcends(“raaginam”)  the desires (“veeta”) and is revered (“vinuta”) by Yogis. He is the cause (“kaaranam”) of creation(“viswa”)  and the obliterator (“vaaranam”) of obstacles (“vigna”).
-
- 
-
 He is worshipped (“prapoojitham”) by the ancient sage (“munivara”) Agastya -- who was born (“sambhava”) out of a water pitcher (“pura kumbha”).
-
 He dwells in the center (“madhyagatham”) of the mystic triangle (“trikona”) and is meditated (“upaasitham”) upon Vishnu (“muraari”) and other “Pramukhas” (important ones).
-
 He is the presiding deity (“sthitham”) of Mooladhaara Kshetra.
-
 He is of the form (“aatmakam”) of four (“chatvaari”) kinds (“paraadi”) of sound (“vaagaa”) beginning with Para.
-
 He has a twisted (“vakra”) trunk (“tundam”) and is of the form (“swaroopa”) of Pranava.
-
 He bears a crescent (“nitila”) moon (“chandra”) on his forehead (“gandam”) and holds a sugar cane (“ikshu”) on His left hand.
-
 He bears in His lotus-like (“ambuja”) hands (“kara”) a noose (“pasha”), a goad and fruits (“beejapooram”).
-
 He drives away (“vidhooram”) all the evils(“kalusha”). He has a gigantic (“bhoota”) form (“aakaaram”).
-
 He (“bimbam”) is adored (“toshita”) by Hara, Guruguha and others (“aadi”). He is lord Heramba adorned (“bhushita”) with Raga Hamsadhwani.
 
- 
-
- 
-
 Pallavi:
-
 Vaataapi Ganapathim Bhajeham Vaaranaasyam Vara Pradam Sri
-
- 
-
 I worship (“Bhajeham”) Lord Ganapati of Vaatapi, who has the face (“aasyam”) of an elephant (“vaara”) and confers (“pradam”) boons (“vara”) on His devotees.
 
- 
-
 G ;          ; R                ; S                S N                | P R                ; S                R ;                sn sr               ||
-
 Vaa         - taa               - pi                Gana         pathim  -Bha               je -                ham--
 
- 
-
 G sr        G -R                ; S                S N                | P R                ; S                R ;                sn sr               ||
-
 Vaa         -   taa               - pi                Gana         pathim  -Bha               je -                ham--
 
- 
-
 gpgg       rs- rg                rr sn                g r  sn                | P R                ; S                R ;                sn sr               ||
-
 Vaa         - - taa               -- pi-                Ga-na-      pathim  -Bha               je -                ham--
 
  
@@ -118,7 +70,6 @@ Vaa         - - taa               -- pi-                Ga-na-      pathim  - Bh
  
 
 gpns       R - sn               pg   R                 g r  sn                | P  Rgr                R- N                Rgr  R                sn sr               ||
-
 Vaa         - - taa               --   pi-                Ga-na-      pathim  - Bha               je -                ham--
 
  
